@@ -1,0 +1,278 @@
+Game at: 13 December 2020 00:55:54
+Move history: Pf2f4 Pe7e5 Pg2g4 Qd8h4 0-1
+
+Game at: 30 December 2020 07:29:47
+Move history: Pe2e4 Pd7d5 Qd1h5 Bc8h3 Qh5xh3 Qd8d6 Qh3c8 Qd6d8 Qc8xd8 Ke8xd8 Bf1b5 Kd8c8 Nb1c3 Ng8h6 Nc3xd5 Nh6g8 Nd5xe7 Kc8d8 Ne7xg8 Kd8c8 Ng8f6 Kc8d8 Nf6xh7 Kd8c8 Nh7xf8 Kc8d8 Nf8g6 Kd8c8 Ng6xh8 Kc8d8 Nh8xf7 Kd8c8 Pd2d3 Pc7c5 Bc1g5 Nb8a6 Nf7e5 Na6b4 Bb5d7 Kc8c7 Ne5c6 Kc7b6 Nc6xa7 Kb6a5 Na7c8 Pb7b6 Nc8xb6 Ka5a6 Nb6xa8 Ka6b7 Na8b6 Kb7b8 Nb6c4 Nb4c6 Bd7xc6 Kb8c7 Bg5f6 Kc7c8 Bf6xg7 Kc8c7 Nc4e5 Pc5c4 Pd3xc4 Kc7b8 Ne5d7 Kb8a7 Nd7c5 Ka7b8 Bg7e5 Kb8a7 Ng1f3 Ka7b6 Rh1f1 Kb6a7 0-0-0 Ka7b6 Rf1e1 Kb6a7 Re1e3 Ka7b6 Re3b3 Kb6a7 Nf3g5 ½-½
+
+Game at: 30 December 2020 16:37:53
+Move history: Pf2f4 Pe7e5 Pg2g4 Qd8h4 0-1
+
+Game at: 30 December 2020 16:39:15
+Move history: f2f4 e7e5 g2g4 Qd8h4 0-1
+
+Game at: 30 December 2020 16:42:36
+Move history: Pd2d3 Pe7e5 Pb2b3 Pe5e4 Ke1d2 Pe4xd3 Kd2c3 Pd3xe2 Kc3b2 Qd1 0-1
+
+Game at: 31 December 2020 16:27:49
+Move history: Pc2c4 Ph7h5 Ph2h4 Pa7a5 Qd1a4 Ra8a6 Qa4xa5 Ra6g6 Qa5a4 Rg6h6 Qa4a5 Rh6g6 Qa5a4 Rg6h6 Qa4a5 Rh6g6 Qa5a4 Rg6h6 Qa4a5 Rh6f6 Qa5a4 Rf6g6 Qa4a5 Rg6h6 Qa5xc7 Pf7f6 Qc7xd7 Ke8f7 Qd7xb7 Qd8d3 Qb7xb8 Qd3h7 Qb8xc8 Kf7g6 Qc8e6 ½-½
+
+Game at: 31 December 2020 16:28:12
+Move history: Pf2f4 Pe7e5 Pg2g4 Qd8h4 0-1
+
+Game at: 31 December 2020 16:29:08
+Move history: Pe2e4 Pe7e6 Pd2d4 Pd7d5 Pd5xe4 Pe4e3 Pe3xf2 0-1
+
+Game at: 31 December 2020 16:33:30
+Move history: Pf2f3 Pe7e5 Pg2g4 Qd8h4 0-1
+
+Game at: 31 December 2020 16:34:38
+Move history: Pe2e3 Pa7a5 Bf1c4 Pa5a4 Qd1h5 Pa4a3 Qh5xf7 1-0
+
+Game at: 31 December 2020 16:47:00
+Move history: Pd2d3 Pe7e5 Pb2b3 Pe5e4 Ke1d2 Pe4xd3 Kd2c3 Pd3xe2 Kc3b2 Qd1 0-1
+
+Game at: 06 January 2021 09:40:14
+Move history: Pd2d4 Pe7e5 Pd4xe5 Pd7d6 Pe5xd6 Ke8d7 Pd6xc7 Kd7e8 Qd8 1-0
+
+Game at: 06 January 2021 09:51:11
+Move history: Pd2d4 Pe7e5 Pd4xe5 Pd7d6 Pe5xd6 Ke8d7 Pd6xc7 Kd7c6 Qd8 Kc6c5 Qd1d5 Kc5b4 Qd5d4 Kb4b5 Qd4d5 Kb5a6 Bc1e3 Ng8h6 Be3f4 Nh6g8 Pe2e4 Pb7b5 Qd5xb5 1-0
+
+Game at: 07 January 2021 14:50:24
+Move history: Ng1f3 Ng8f6 Nf3g1 Nf6g8 Ng1f3 Ng8f6 Nf3g1 Nf6g8 ½-½
+
+Game at: 07 January 2021 14:50:39
+Move history: Ng1f3 Ng8f6 Nf3g1 Nf6g8 Ng1f3 Ng8f6 Nf3g1 Nf6g8 ½-½
+
+Game at: 07 January 2021 15:01:42
+Move history: Ng1f3 Ng8f6 Nf3d4 Nf6g4 Nd4f3 Ng4f6 Nf3d4 Nf6g4 Nd4f3 Ng4f6 ½-½
+
+Game at: 07 January 2021 16:34:32
+Move history: Ng1f3 Ng8f6 Nf3g1 Nf6g8 Ng1f3 Ng8f6 Nf3g1 Nf6g8 ½-½
+
+Game at: 07 January 2021 16:34:43
+Move history: Ng1f3 Ng8f6 Nf3d4 Nf6d5 Nd4f3 Nd5f6 Nf3d4 Nf6d5 Nd4f3 Nd5f6 ½-½
+
+Game at: 08 January 2021 10:32:17
+Move history: Pd2d4 Ng8f6 Pe2e3 Nb8c6 Nb1c3 Nc6xd4 Pe3xd4 Pd7d5 Nc3xd5 Nf6xd5 Bf1c4 Pf7f5 Bc4xd5 Qd8xd5 Qd1h5 Ke8d8 Qh5f3 Qd5xf3 Pg2xf3 Pc7c5 Bc1f4 Pc5xd4 Ng1e2 Rh8g8 Ne2xd4 Ph7h6 Nd4xf5 Bc8xf5 Ra1d1 Kd8c8 Rd1d5 Bf5xc2 Rd5d2 Ph6h5 Rd2xc2 Kc8d8 Rc2d2 Kd8c8 Rd2d5 Ph5h4 Rd5h5 Ph4h3 Rh5xh3 Pg7g6 Rh3h6 Bf8xh6 Bf4xh6 Kc8b8 Bh6f4 Pe7e5 Bf4xe5 Kb8c8 Rh1g1 Rg8g7 Be5xg7 Kc8b8 Bg7f6 Pg6g5 Bf6xg5 Pb7b6 Bg5e3 Pa7a6 Be3xb6 Pa6a5 Bb6xa5 Ra8xa5 Pb2b4 Ra5xa2 Ke1d1 Ra2xf2 Kd1e1 Rf2xf3 Rg1f1 Rf3xf1 Ke1xf1 Kb8a7 Ph2h4 Ka7b7 Ph4h5 Kb7a7 Ph5h6 Ka7b7 Ph6h7 Kb7a7 Qh8 Ka7b7 Qh8h7 Kb7a8 Pb4b5 Ka8b8 Qh7h6 Kb8a7 Qh6h7 Ka7a8 Qh7h6 Ka8a7 Qh6h7 Ka7a8 ½-½
+
+Game at: 08 January 2021 10:34:00
+Move history: Pe2e4 Pf7f5 Pe4xf5 Pg7g6 Pf5xg6 Bf8g7 Pg6xh7 Bg7f6 Qg8 Rh8xg8 Qd1h5 Ke8f8 Bf1d3 Bf6e5 Bd3f5 Be5f6 Qh5g4 Bf6e5 Bf5g6 Be5d6 Bg6h5 Rg8g7 Qg4g6 Rg7f7 Qg6xf7 1-0
+
+Game at: 08 January 2021 10:43:06
+Move history: Pd2d4 Pe7e5 Pd4xe5 Pd7d6 Pe5xd6 Ke8d7 Pd6xc7 Kd7c6 Qd8 Bc8g4 Qd1d7 Kc6c5 Qd7d5 Kc5b4 Qd5d4 Kb4b5 Qd4d5 Kb5b4 Qd8d6 Kb4a4 Qd5c5 Nb8d7 Qd6d4 1-0
+
+Game at: 23 February 2021 11:54:55
+Move history: Pe2e4 Pe7e5 Bf1c4 Pa7a6 Qd1f3 Pb7b6 Qf3xf7 1-0
+
+Game at: 23 February 2021 12:00:03
+Move history: Pd2d4 Pe7e5 Pd4xe5 Pd7d6 Pe5xd6 Ke8d7 Pd6xc7 Kd7xc7 Qd1xd8 Kc7c6 Bc1f4 Kc6c5 Bf4e3 Kc5c6 Qd8d4 Kc6b5 Qd4d5 Kb5a4 Qd5c5 Pf7f6 Nb1c3 1-0
+
+Game at: 25 February 2021 12:27:31
+Move history: Pe2e3 Pd7d5 Pd2d4 Bc8g4 Pc2c4 Pd5xc4 Pb2b3 Pc4xb3 Pa2xb3 Pa7a5 Pb3b4 Pa5xb4 Ra1xa8 Pb4b3 Ra8xb8 Pb3b2 Rb8xd8 Ke8xd8 Qd1xg4 Pc7c6 Bf1b5 Pc6xb5 Qg4xg7 Ng8f6 Qg7xh8 Nf6e8 Qh8xh7 Ne8g7 Qh7g8 Pe7e6 Pg2g3 Kd8e8 Qg8xg7 Pe6e5 Nb1d2 Pe5e4 Nd2c4 Pb5b4 Nc4e5 Pb4b3 Qg7xf7 Ke8d8 Qf7d7 1-0
+
+Game at: 25 February 2021 12:33:12
+Move history: Pd2d4 Pe7e5 Pd4xe5 Pd7d6 Pe5xd6 Qd8e7 Pd6xe7 Pc7c6 Qf8 Ke8e7 Qd1d8 Ke7e6 Qd8e8 Ke6d5 Rf8xf7 Kd5d4 Rf7f4 Kd4c5 Qe8e5 Kc5b6 Rf4b4 Kb6a6 Qe5c3 Ka6a5 Qc3a3 1-0
+
+Game at: 02 March 2021 16:18:47
+Move history: Pe2e4 Pd7d5 Pe4e5 Pf7f5 0-1
+
+Game at: 02 March 2021 17:41:37
+Move history: Pd2d3 Pc7c6 Pc2c3 Qd8b6 Pb2b3 Qb6d4 Nb1a3 Qd4xd3 Bc1e3 Nb8a6 Qd1c2 Na6b8 Ph2h3 Qd3c4 Ph3h4 Qc4d3 Ph4h5 Qd3f5 Pf2f3 Qf5xf3 Ng1h3 Pg7g6 Pg2g3 Pg6xh5 Bf1g2 Ph5h4 Na3b5 Pb7b6 Nb5xa7 Ra8xa7 Pb3b4 Ra7a5 Nh3g5 Ra5d5 Ng5h3 Rd5d2 Pb4b5 Qf3xe2 0-1
+
+Game at: 04 March 2021 20:19:52
+Move history: Pe2e4 Pd7d5 Ke1e2 Pd5xe4 Ke2e3 Pe7e5 Ke3xe4 Ke8e7 Ke4xe5 Ke7d7 Ke5d5 Qd8g5 Kd5e4 Bf8c5 Pd2d3 Kd7d8 Pf2f3 Qg5e3 Ke4d5 Kd8d7 Kd5c4 Nb8a6 Kc4c3 Qe3d4 Kc3b3 Qd4b4 0-1
+
+Game at: 04 March 2021 21:49:15
+Move history: Pc2c4 Ph7h5 Ph2h4 Pa7a5 Qd1a4 Ra8a6 Qa4xa5 Ra6h6 Qa5xc7 Pf7f6 Qc7xd7 Ke8f7 Qd7xb7 Qd8d3 Qb7xb8 Qd3h7 Qb8xc8 Kf7g6 Qc8e6 ½-½
+
+Game at: 04 March 2021 22:15:00
+Move history: Pf2f3 Pe7e5 Pg2g4 Qd8h4 0-1
+
+Game at: 04 March 2021 22:46:25
+Move history: Nb1c3 Pc7c5 Pb2b3 Qd8a5 Bc1a3 Qa5xa3 Pd2d3 Qa3xb3 Qd1d2 Qb3xc3 Ng1f3 Qc3xc2 Nf3g1 Qc2xd3 Ng1f3 Qd3xd2 Nf3xd2 Nb8c6 Nd2f3 Nc6b4 Nf3g1 Nb4c6 Ng1f3 Pb7b5 Nf3g1 Ra8b8 Ng1f3 Rb8b6 Nf3g1 Rb6a6 Ng1f3 Ra6a4 Nf3g1 Ra4d4 Ng1f3 Ng8f6 Pg2g3 Nf6g8 Bf1h3 Ng8h6 0-1
+
+Game at: 04 March 2021 23:29:29
+Move history: Pe2e4 Ng8f6 Pd2d3 Nb8c6 Bc1g5 Pd7d5 Pe4xd5 Nf6xd5 Qd1f3 Pf7f5 Qf3xf5 Bc8xf5 Bg5f4 Nd5xf4 Pg2g3 Qd8xd3 Bf1xd3 Nf4xd3 Pc2xd3 0-0-0 Ke1e2 Kc8b8 Ng1f3 Rd8xd3 Ke2f1 Rd3xf3 Kf1g2 Bf5xb1 Kg2xf3 Bb1xa2 Ra1xa2 Nc6d4 Kf3e4 Pc7c5 Ke4d5 Rh8g8 Kd5xc5 Ph7h6 Kc5xd4 Ph6h5 Kd4e4 Ph5h4 Pg3g4 Ph4h3 Ke4f3 Pg7g6 Kf3f4 Rg8g7 Kf4g5 Pb7b6 Kg5h6 Pg6g5 Kh6h5 Pa7a6 Ra2xa6 Rg7g6 Kh5xg6 Bf8h6 Kg6xh6 Kb8b7 Kh6xg5 Kb7xa6 Kg5h4 Ka6a7 Kh4xh3 Ka7b7 Kh3h4 Kb7a7 Kh4h5 Ka7b7 Kh5g6 Kb7a7 Kg6f7 Ka7b7 Kf7xe7 Kb7a7 Ke7d6 Ka7b7 Kd6d5 Kb7a7 Rh1b1 Ka7b7 Rb1a1 Kb7b8 Ra1a6 Kb8b7 Kd5c4 Kb7xa6 Pg4g5 Ka6a7 Pg5g6 Ka7b7 Pg6g7 Kb7a7 Pg8 Ka7b7 Qg8d5 Kb7a7 Kc4b5 Ka7b8 Kb5xb6 Kb8c8 Qd5b7 Kc8d8 Kb6c5 Kd8e8 Kc5d6 Ke8d8 Qb7d7 1-0
+
+Game at: 05 March 2021 11:42:07
+Move history: Pf2f3 Pe7e5 Pg2g4 Qd8h4 0-1
+
+Game at: 05 March 2021 11:46:59
+Move history: Pc2c4 Ph7h5 Ph2h4 Pa7a5 Qd1a4 Ra8a6 Qa4xa5 Ra6h6 Qa5xc7 Pf7f6 Qc7xd7 Ke8f7 Qd7xb7 Qd8d3 Qb7xb8 Qd3h7 Qb8xc8 Kf7g6 Qc8e6 ½-½
+
+Game at: 05 March 2021 12:24:16
+Move history: Pe2e4 Ng8f6 Pe4e5 Nb8c6 Pe5xf6 Pd7d5 Pf6xe7 Pf7f5 Pd8 Ke8xd8 Qd1h5 Nc6d4 Pc2c3 Pc7c5 Pc3xd4 Pc5xd4 Qh5xf5 Bc8xf5 Ng1f3 Bf5xb1 Nf3xd4 Kd8c8 Nd4e6 Kc8b8 Ne6xf8 Rh8xf8 Bf1d3 Bb1xd3 Ke1d1 Rf8xf2 Rh1e1 Rf2xg2 Re1e2 Bd3xe2 Kd1c2 Ph7h6 Pd2d3 Be2xd3 Kc2xd3 Ph6h5 Bc1g5 Rg2xg5 Ra1e1 Ph5h4 Pb2b4 Ph4h3 Pb4b5 Pg7g6 Pb5b6 Pd5d4 Re1e8 1-0
+
+Game at: 05 March 2021 12:27:32
+Move history: Pe2e4 Ng8f6 Pe4e5 Nb8c6 Pe5xf6 Pd7d5 Pf6xe7 Pf7f5 Pd8 Ke8xd8 Bf1b5 Nc6d4 Bb5d3 Pc7c5 Ng1f3 Nd4xf3 Pg2xf3 Rh8g8 Pc2c4 Ph7h6 Pc4xd5 Ph6h5 Rh1g1 Ph5h4 Rg1g5 Ph4h3 Bd3xf5 Bc8xf5 Rg5xf5 Kd8c8 Qd1c2 Kc8b8 Pd5d6 Bf8xd6 Rf5xc5 Bd6xc5 Qc2xc5 Pg7g6 Qc5g5 Rg8g7 Qg5f6 Pg6g5 Qf6xg7 Pg5g4 Pf3xg4 Pb7b6 Pd2d3 Pa7a6 Bc1f4 Kb8c8 Qg7c7 1-0
+
+Game at: 07 March 2021 17:06:02
+Move history: 0-1
+
+Game at: 07 March 2021 17:06:43
+Move history: ½-½
+
+Game at: 07 March 2021 17:07:23
+Move history: 0-1
+
+Game at: 07 March 2021 17:09:52
+Move history: 0-1
+
+Game at: 07 March 2021 17:10:11
+Move history: 0-1
+
+Game at: 07 March 2021 17:10:47
+Move history: Pf2f3 Pe7e5 Pg2g4 Qd8h4 0-1
+
+Game at: 07 March 2021 17:25:48
+Move history: Ng1f3 Ng8f6 Nf3g1 Nf6g8 Ng1f3 Ng8f6 Nf3g1 Nf6g8 ½-½
+
+Game at: 07 March 2021 17:29:47
+Move history: Pe2e4 Pe7e5 Ke1e2 Ke8e7 Ke2e3 Ke7f6 Ke3d3 Kf6g5 Kd3c3 Kg5h6 Kc3b3 Kh6g6 Kb3a4 Qd8h4 Ph2h3 Qh4xh3 Pg2g3 Qh3xg3 Pf2f3 Qg3xf3 Bf1g2 Qf3xg2 Ng1h3 Qg2xh3 Rh1h2 Qh3xh2 Qd1e2 Qh2g1 Ka4a5 Qg1xc1 Qe2a6 Kg6h5 Qa6xa7 Qc1xb1 Qa7xa8 Qb1xa1 Qa8xb8 Qa1xb2 Qb8xb7 Qb2xc2 Qb7xc7 Qc2xd2 Qc7c3 Qd2e3 Qc3xc8 Qe3f4 Qc8xd7 Qf4f5 Pe4xf5 Pf7f6 Qd7xg7 Kh5h4 Qg7xh7 Kh4g4 Qh7xh8 Kg4g3 Qh8xg8 Kg3f3 Qg8xf8 Pe5e4 Qf8d8 Kf3e3 Qd8d3 Ke3xd3 Pa2a4 Kd3c3 Ka5b6 Kc3b3 Kb6c6 Kb3a3 Kc6d6 Ka3xa4 Kd6e6 Ka4a5 Ke6xf6 Ka5a6 Kf6e5 Ka6b6 Ke5xe4 Kb6c6 Ke4e3 Kc6d6 Ke3e2 Kd6e5 Ke2f1 Ke5xf5 ½-½
+
+Game at: 07 March 2021 17:32:59
+Move history: Pe2e4 Pd7d5 Ke1e2 Pd5xe4 Ke2e3 Qd8d7 Ke3f4 Qd7d8 Kf4g3 Qd8xd2 Qd1h5 Qd2xc2 Qh5xh7 Ke8d7 Qh7xh8 Kd7d6 Qh8xg8 Kd6c6 Qg8xg7 Kc6c5 Qg7xf7 Kc5b6 Qf7xf8 Kb6c5 Qf8xe7 Kc5d5 Qe7xc7 Qc2xc1 Qc7xb7 Qc1c6 Qb7xa7 Qc6c1 Kg3h4 Qc1xb1 Qa7xa8 Kd5e5 Qa8xb8 Ke5d4 Qb8xc8 Qb1xa1 Qc8c4 Kd4e5 Qc4d5 Ke5xd5 Kh4h5 Qa1xa2 Kh5h4 Qa2xb2 Kh4h5 Qb2xf2 Kh5h6 Qf2xf1 Kh6g6 Qf1xg2 Kg6h6 Qg2xh2 Kh6g5 Qh2xh1 Kg5f5 Kd5c5 Kf5f4 Qh1h4 Kf4f5 Qh4f4 Kf5xf4 Kc5d6 Kf4xe4 ½-½
+
+Game at: 07 March 2021 17:35:11
+Move history: Pe2e4 Pe7e5 Ke1e2 Ke8e7 Ke2f3 Ke7f6 Kf3g3 Kf6g6 Kg3h3 Kg6h6 Qd1g4 Qd8g5 Qg4xd7 Qg5xd2 Qd7xc8 Qd2xc1 Qc8xc7 Qc1xb1 Qc7xb7 Qb1xa1 Qb7xa7 Qa1xa2 Qa7xa8 Qa2xb2 Qa8xb8 Qb2xc2 Qb8xe5 Qc2xe4 Qe5e8 Qe4e2 Qe8xf8 Qe2xf2 Qf8xg8 Qf2xg1 Qg8xf7 Qg1xh1 Qf7xg7 Kh6h5 Qg7xh8 Qh1xh2 Kh3xh2 Kh5h6 Qh8xh7 Kh6xh7 Pg2g4 Kh7h6 Pg4g5 Kh6xg5 ½-½
+
+Game at: 07 March 2021 17:37:16
+Move history: Pe2e4 Pe7e5 Ke1e2 Ke8e7 Ke2e3 Ke7f6 Ke3f3 Kf6g6 Kf3g3 Kg6h6 Kg3h3 Qd8g5 Qd1g4 Qg5xd2 Qg4xd7 Qd2xc1 Qd7xc8 Qc1xb1 Qc8xb8 Qb1xa1 Qb8xa8 Qa1xa2 Qa8xa7 Qa2xb2 Qa7xb7 Qb2xc2 Qb7xc7 Qc2xe4 Qc7xe5 Qe4e1 Qe5e8 Qe1xf1 Qe8xf8 Qf1xg1 Qf8xg8 Qg1xf2 Qg8xf7 Qf2xg2 Kh3xg2 Pg7g6 Qf7xg6 Kh6xg6 Rh1f1 Kg6h5 Rf1f7 Rh8g8 Kg2f2 Rg8g3 Kf2e2 Rg3g2 Ke2e1 Rg2xh2 Rf7xh7 ½-½
+
+Game at: 07 March 2021 17:40:29
+Move history: Pe2e4 Pe7e5 Ke1e2 Ke8e7 Ke2f3 Ke7f6 Kf3g3 Kf6g6 Kg3h3 Kg6h6 Qd1g4 Qd8g5 Qg4xd7 Qg5xd2 Qd7xc8 Qd2xc1 Qc8xb8 Qc1xb1 Qb8xa8 Qb1xa1 Qa8xa7 Qa1xa2 Qa7xb7 Qa2xb2 Qb7xc7 Qb2xc2 Qc7xe5 Qc2xe4 Qe5e7 Qe4e2 Qe7xf7 Qe2xf2 Qf7xg8 Qf2xg1 Qg8xh8 Qg1xh1 Qh8xh7 Kh6xh7 Kh3g3 Qh1xh2 Kg3xh2 Kh7g6 Pg2g4 Kg6g5 Kh2g2 Kg5xg4 Bf1d3 Pg7g6 Bd3xg6 Bf8c5 Kg2f1 Kg4g3 Kf1e2 Kg3g2 Ke2e1 Kg2f3 Ke1d1 Kf3e3 Kd1c2 Ke3e2 Kc2b1 Ke2d2 Kb1a1 Kd2c1 Ka1a2 Bc5d4 Bg6h7 Bd4e5 Bh7g8 Be5d4 Bg8f7 Bd4e5 Bf7e8 Be5d4 Be8d7 Bd4e5 Bd7e8 Be5f4 Ka2a1 Bf4e3 Be8a4 Be3f4 Ba4b3 Bf4e3 Bb3a2 Be3f4 Ba2b3 Bf4e3 Bb3a2 Be3d4 0-1
+
+Game at: 07 March 2021 17:44:01
+Move history: Pe2e4 Pe7e5 Ke1e2 Ke8e7 Ke2e3 Ke7e6 Ke3f3 Ke6f6 Kf3g3 Kf6g6 Kg3h3 Kg6h6 Qd1g4 Qd8g5 Qg4xd7 Qg5xd2 Qd7e6 Kh6h5 Qe6xc8 Kh5h6 Qc8xb8 Qd2e3 Kh3h4 Qe3d2 Qb8xa8 Qd2e3 Bc1d2 Qe3f4 Pg2g4 Qf4e3 Bd2e1 Qe3xf2 Kh4h3 Qf2xf1 Kh3h4 Qf1xg1 Kh4h3 Qg1xh1 Kh3g3 Qh1xh2 Kg3xh2 Bf8c5 Qa8xa7 Bc5d6 Qa7xb7 Bd6c5 Qb7xc7 Bc5d6 Qc7xf7 Bd6c5 Qf7xg7 Kh6xg7 Pg4g5 Kg7g6 Be1d2 Ng8f6 Pg5xf6 Kg6xf6 Bd2e3 Kf6g6 Nb1c3 Bc5d4 Pb2b3 Bd4xc3 Pa2a4 Bc3xa1 Pc2c3 Ba1xc3 Pb3b4 Bc3xb4 Pa4a5 Bb4xa5 Be3f4 Ph7h6 Bf4xe5 Ph6h5 Be5xh8 Kg6f7 Bh8f6 Kf7g6 Bf6c3 Ph5h4 Bc3b4 Kg6g5 Kh2h3 Kg5f4 Kh3xh4 Kf4xe4 ½-½
+
+Game at: 07 March 2021 17:47:23
+Move history: Pe2e4 Pe7e5 Ke1e2 Ke8e7 Ke2e3 Ke7f6 Ke3f3 Kf6g6 Kf3g3 Kg6h6 Kg3h3 Qd8g5 Qd1g4 Qg5xd2 Qg4xd7 Qd2xc1 Qd7xc8 Qc1xb1 Qc8xb8 Qb1xa1 Qb8xa8 Qa1xa2 Qa8xa7 Qa2xb2 Qa7xb7 Qb2xc2 Qb7xc7 Qc2xe4 Qc7xe5 Qe4e2 Qe5e7 Qe2xf2 Qe7xf7 Qf2xf1 Qf7xf8 Qf1xg2 Kh3xg2 Ng8f6 Qf8xg7 Kh6xg7 Kg2f3 Nf6e4 Kf3xe4 Kg7g6 Ng1h3 Kg6h5 Nh3g5 Kh5h4 Ng5e6 Kh4h3 Ne6g5 Kh3g2 Rh1d1 Kg2xh2 Ng5xh7 Kh2g2 Rd1g1 Kg2xg1 ½-½
+
+Game at: 07 March 2021 17:49:09
+Move history: Pe2e4 Pe7e5 Ke1e2 Ke8e7 Ke2f3 Ke7f6 Kf3g3 Kf6g6 Kg3h3 Kg6h6 Qd1g4 Qd8g5 Qg4xd7 Qg5xd2 Qd7xc8 Qd2xc1 Qc8xb8 Qc1xb1 Qb8xa8 Qb1xa1 Qa8xa7 Qa1xa2 Qa7xb7 Qa2xb2 Qb7xc7 Qb2xc2 Qc7xe5 Qc2xe4 Qe5e7 Qe4e2 Qe7xf7 Qe2xf2 Qf7xf8 Qf2xg1 Qf8xg8 Qg1xh1 Qg8xh7 Kh6xh7 Kh3g3 Qh1xh2 Kg3xh2 Pg7g5 Pg2g4 Kh7h6 Kh2h3 Kh6g6 Kh3g3 Rh8h4 Kg3f3 Rh4xg4 Kf3e3 Rg4g1 Ke3e4 Pg5g4 Ke4f4 Rg1h1 Kf4xg4 ½-½
+
+Game at: 07 March 2021 17:51:17
+Move history: Pe2e4 Pe7e5 Ke1e2 Ke8e7 Ke2f3 Ke7f6 Kf3g3 Kf6g6 Kg3h3 Kg6h6 Qd1g4 Qd8g5 Qg4xd7 Qg5xd2 Qd7xc8 Qd2xc1 Qc8xc7 Qc1xb1 Qc7xb7 Qb1xa1 Qb7xa7 Qa1xa2 Qa7xa8 Qa2xb2 Qa8d5 Qb2xc2 Qd5xe5 Qc2xe4 Qe5e7 Qe4e2 Qe7xf7 Qe2xf2 Qf7xf8 Qf2xf1 Qf8xg7 Kh6h5 Qg7xh8 Kh5h6 Qh8xh7 Kh6xh7 Kh3g3 Qf1xg1 Kg3h3 Qg1xh1 Kh3h4 Qh1xg2 Kh4h5 Qg2xh2 Kh5g4 Qh2h4 Kg4xh4 ½-½
+
+Game at: 07 March 2021 18:00:11
+Move history: Pf2f4 Pe7e5 Pg2g4 Qd8h4 0-1
+
+Game at: 07 March 2021 18:01:02
+Move history: Pc2c4 Ph7h5 Ph2h4 Pa7a5 Qd1a4 Ra8a6 Qa4xa5 Ra6h6 Qa5xc7 Pf7f6 Qc7xd7 Ke8f7 Qd7xb7 Qd8d3 Qb7xb8 Qd3h7 Qb8xc8 Kf7g6 Qc8e6 ½-½
+
+Game at: 07 March 2021 18:10:07
+Move history: Pe2e4 Pe7e5 Ke1e2 Ke8e7 Ke2f3 Ke7f6 Kf3g3 Kf6g6 Kg3h3 Kg6h6 Qd1g4 Qd8g5 Qg4xd7 Qg5xd2 Qd7xc8 Qd2xc1 Qc8xb8 Qc1xb1 Qb8xa8 Qb1xa1 Qa8xa7 Qa1xa2 Qa7xb7 Qa2xb2 Qb7xc7 Qb2xc2 Qc7xe5 Qc2xe4 Qe5e8 Qe4e1 Qe8xf8 Qe1xf1 Qf8xg8 Qf1xg1 Qg8xh8 Qg1xh1 Qh8f8 Qh1f1 Qf8xf7 Qf1xf2 Qf7xg7 Kh6xg7 Pg2g3 Qf2xg3 Kh3xg3 Kg7f7 Kg3f3 Kf7e7 Kf3e3 Ke7d7 Ke3d3 Kd7c7 Kd3c3 Kc7b7 Kc3b3 Kb7a7 Kb3a3 Ka7b7 Ka3b3 Kb7c7 Kb3c3 Kc7b7 Kc3d3 Kb7c7 Kd3c3 ½-½
+
+Game at: 07 March 2021 18:50:23
+Move history: Pd2d4 Pc7c5 Pd4xc5 Pb7b6 Pc5xb6 Ng8f6 Pb6xa7 Nf6g8 Pb8 1-0
+
+Game at: 24 April 2021 22:58:31
+Move history: Pe2e4 Pe7e5 Ng1f3 Ng8f6 Nf3g1 Nf6g8 Ng1f3 Ng8f6 Nf3g1 Nf6g8 ½-½
+
+Game at: 24 April 2021 23:27:05
+Move history: Pd2d4 Pe7e5 Pd4xe5 Pd7d6 Pe5xd6 Qd8e7 Pd6xe7 Pf7f6 Pf8 Ke8f7 Bf8c5 Kf7e6 Qd1d6 Ke6f7 Qd6e7 Kf7g6 Qe7e4 Kg6f7 Qe4e7 Kf7g6 Ng1f3 Kg6f5 Nf3d4 Kf5g6 Qe7e8 1-0
+
+Game at: 25 April 2021 00:19:14
+Move history: 0-1
+
+Game at: 25 April 2021 00:28:18
+Move history: Pe2e4 Ng8f6 Pe4e5 Nb8c6 Pe5xf6 Pd7d5 Pf6xe7 Pf7f5 Pd8 Ke8xd8 Qd1h5 Nc6d4 Qh5xf5 Bc8xf5 Bf1d3 Bf5xd3 Pc2xd3 Kd8c8 Ng1e2 Kc8b8 Ne2xd4 Pc7c5 Nd4e6 Rh8g8 Ne6xf8 Rg8xf8 Pd3d4 Pc5xd4 Pd2d3 Rf8xf2 Ke1xf2 Ph7h6 Bc1xh6 Pg7xh6 Pg2g4 Ph6h5 Pg4xh5 Pb7b6 Ph5h6 Pa7a6 Ph6h7 Kb8a7 Rh1g1 Ra8g8 Rg1xg8 Pa6a5 Ph8 Pa5a4 Pa2a3 Ka7b7 Pb2b4 Kb7a7 Pb4b5 Ka7b7 Kf2f1 Kb7a7 Kf1f2 Ka7b7 Kf2f1 Kb7a7 Kf1f2 ½-½
+
+Game at: 26 April 2021 16:28:00
+Move history: Pf2f4 Ng8f6 Pe2e4 Nf6xe4 Bf1d3 Ne4xd2 Bc1xd2 Nb8c6 Bd2e3 Pf7f5 Qd1f3 Pd7d5 Qf3xd5 Qd8xd5 Bd3e4 Qd5xe4 Nb1c3 Qe4xe3 Ke1d1 Qe3xc3 Ng1e2 Qc3xb2 Ra1c1 Qb2xc1 Kd1xc1 Ke8d8 Ne2c3 Nc6d4 Nc3d5 Nd4xc2 Kc1xc2 Pc7c5 Nd5b6 Pa7xb6 Kc2b3 Ra8xa2 Kb3xa2 Rh8g8 Rh1d1 Kd8c7 Ka2b3 Kc7b8 Kb3a4 Kb8a7 Ka4b5 Ph7h6 Kb5c4 Ph6h5 Kc4d5 Ph5h4 Kd5e5 Ph4h3 Pg2xh3 Pg7g6 Ph3h4 Rg8g7 Ph4h5 Pg6xh5 Ke5d5 Ph5h4 Kd5e5 Ph4h3 Ke5d5 Pc5c4 Kd5e5 Rg7g2 Ke5d5 Rg2xh2 Kd5e5 Rh2g2 Ke5d5 Ph3h2 Kd5e5 Ph1 Ke5d5 Qh1xd1 Kd5e5 Qd1f3 Ke5d4 Qf3xf4 Kd4d5 Qf4c7 Kd5d4 Qc7f4 Kd4d5 Qf4c7 Kd5d4 Qc7f4 ½-½
+
+Game at: 26 April 2021 16:57:02
+Move history: Pe2e4 Nb8c6 Pd2d4 Nc6xd4 Pc2c3 Ng8f6 Pc3xd4 Nf6xe4 Pf2f3 Pd7d5 Pf3xe4 Pd5xe4 Bf1b5 Bc8d7 Bb5xd7 Qd8xd7 Nb1c3 Qd7xd4 Qd1xd4 Pf7f5 Bc1g5 Rh8g8 Nc3d5 0-0-0 Bg5xe7 Rd8xd5 Qd4xd5 Bf8xe7 Qd5xg8 Be7f8 Qg8xf8 Kc8d7 Ra1d1 Kd7c6 Qf8d6 Pc7xd6 Ng1e2 Kc6b6 Ne2d4 Pd6d5 Rd1c1 Kb6a6 Rc1c7 Pb7b6 Rc7xg7 Pf5f4 Rg7xh7 Ka6a5 Rh7h5 Ka5a6 Rh5xd5 Ka6b7 Rd5f5 Kb7b8 Rf5xf4 Kb8a8 Rf4xe4 Ka8b7 Re4e6 Kb7b8 Nd4c6 Kb8a8 Re6e7 Pa7a5 Rh1f1 Pa5a4 Rf1f8 1-0
+
+Game at: 26 April 2021 16:58:34
+Move history: Pe2e4 Nb8c6 Qd1h5 Ng8f6 Qh5h4 Nf6xe4 Qh4h5 Ne4xf2 Bf1c4 Nf2xh1 Qh5xf7 1-0
+
+Game at: 26 April 2021 17:08:40
+Move history: Pe2e4 Nb8c6 Qd1f3 Ng8f6 Pe4e5 Nc6xe5 Qf3c3 Pd7d5 Qc3xe5 Nf6e4 Qe5xd5 Qd8xd5 Pd2d3 Qd5xa2 Ra1xa2 Ne4xf2 Ke1xf2 Pf7f5 Ng1f3 Ke8d8 Nf3d4 Rh8g8 Nd4xf5 Bc8xf5 Bc1f4 Bf5xd3 Pc2xd3 Kd8c8 Kf2g1 Kc8b8 Bf1e2 Pa7a5 Ra2xa5 Ra8xa5 Nb1c3 Kb8a7 Be2d1 Ra5g5 Bf4xg5 Pc7c5 Pd3d4 Pc5xd4 Nc3e2 Pb7b6 Ne2xd4 Pg7g6 Nd4c6 Ka7a8 Bg5e3 Rg8g7 Be3xb6 Ka8b7 Nc6xe7 Bf8xe7 Bb6d4 Kb7b8 Bd4xg7 Kb8a7 Bg7h6 Be7f8 Bh6xf8 Pg6g5 Kg1f2 Pg5g4 Rh1e1 Pg4g3 Ph2xg3 Ph7h5 Re1e4 Ph5h4 Re4g4 Ph4xg3 Kf2xg3 Ka7b8 Rg4b4 Kb8a7 Bd1e2 Ka7a8 Bf8d6 Ka8a7 Bd6c5 Ka7a8 Be2f1 ½-½
+
+Game at: 27 April 2021 13:56:17
+Move history: Pe2e4 Nb8c6 Qd1f3 Ng8f6 Bf1c4 Nf6xe4 Qf3xf7 1-0
+
+Game at: 27 April 2021 14:56:04
+Move history: 0-1
+
+Game at: 27 April 2021 14:56:52
+Move history: 0-1
+
+Game at: 27 April 2021 15:01:35
+Move history: Pe2e4 Ng8f6 Bf1d3 Nf6xe4 Ng1f3 Ne4c5 Nf3g5 Nc5e4 Ng5f3 Ne4c5 Nf3g5 Nc5e4 Ng5f3 ½-½
+
+Game at: 27 April 2021 15:15:01
+Move history: Pe2e4 Pe7e5 Ng1f3 Ng8f6 Nf3xe5 Nf6xe4 Pd2d3 Ne4g5 Ne5c4 Ng5h3 Nc4a5 Nh3g5 Na5b3 Ng5h3 Nb3c5 Nh3g5 Nc5b3 Ng5h3 Nb3a5 ½-½
+
+Game at: 27 April 2021 15:15:46
+Move history: 0-1
+
+Game at: 27 April 2021 15:16:11
+Move history: Pd2d4 1-0
+
+Game at: 28 April 2021 15:08:35
+Move history: Pe2e3 Pf7f5 Qd1h5 Pg7g6 Qh5xh7 Rh8xh7 Ke1e2 Ke8f7 Ke2f3 Kf7e6 Kf3g3 Ke6e5 Kg3f3 Ke5d5 Kf3g3 Kd5e4 Ng1e2 Bf8h6 ½-½
+
+Game at: 28 April 2021 15:10:42
+Move history: Pf2f4 Pe7e5 Pg2g3 Qd8h4 Ph2h3 Qh4xg3 0-1
+
+Game at: 28 April 2021 15:11:41
+Move history: Pe2e4 Pf7f5 Qd1h5 Pg7g6 Qh5xh7 Pa7a6 Qh7xg6 1-0
+
+Game at: 28 April 2021 16:40:52
+Move history: Pe2e4 Nb8c6 Pd2d3 Ng8f6 Pf2f3 Nf6xe4 Pf3xe4 Pd7d5 Pe4xd5 Qd8xd5 Ng1f3 Qd5xf3 Pg2xf3 Pf7f5 Bf1g2 Nc6e5 0-0 Ne5xf3 Bg2xf3 Ke8d8 Bf3h5 Rh8g8 Rf1xf5 Bc8xf5 Qd1f3 Bf5xd3 Qf3xd3 Kd8c8 Bh5g4 Kc8b8 Qd3d8 1-0
+
+Game at: 28 April 2021 16:44:47
+Move history: Ng1f3 Nb8c6 Pd2d4 Nc6xd4 Nf3xd4 Ng8f6 Bc1g5 Pd7d5 Bg5xf6 Pe7xf6 Nd4b5 Pf6f5 Pc2c4 Pd5xc4 Qd1xd8 Ke8xd8 Nb5d4 Pf7f6 Nd4xf5 Bc8xf5 Pf2f3 Bf5xb1 Ra1xb1 Kd8c8 Rb1d1 Kc8b8 Pe2e3 Pf6f5 Bf1xc4 Rh8g8 Pe3e4 Pf5xe4 Pf3xe4 Pc7c5 Rh1f1 Bf8e7 Rd1d7 Be7f8 Rd7d5 Bf8e7 Rd5f5 Be7f8 Rf5xc5 Bf8xc5 Rf1f5 Bc5d6 Rf5d5 Bd6xh2 Rd5h5 Bh2g1 Ke1f1 Bg1h2 Rh5xh2 Pa7a5 Rh2xh7 Kb8a7 Rh7xg7 Rg8xg7 Pg2g4 Rg7xg4 Bc4d3 Rg4xe4 Bd3xe4 Ra8g8 Be4d5 Rg8g7 Kf1f2 Rg7g6 Kf2f3 Rg6g7 Kf3f4 Rg7g6 Bd5e4 Rg6g7 Kf4f3 Rg7g6 Be4xg6 Pa5a4 Pa2a3 Pb7b6 Kf3e4 Ka7b8 Ke4d5 Kb8a7 Kd5c4 Ka7b8 Kc4b5 Kb8a7 Kb5b4 Ka7b8 Kb4xa4 Kb8a7 Ka4b5 Ka7b8 Kb5xb6 Kb8a8 Bg6e4 Ka8b8 Pa3a4 Kb8c8 Pa4a5 Kc8b8 Pa5a6 Kb8c8 Pa6a7 Kc8d8 Pa8 Kd8d7 Qa8c6 Kd7d8 Be4b1 Kd8e7 Bb1a2 Ke7d8 Pb2b3 Kd8e7 Kb6c5 Ke7d8 Kc5d5 Kd8e7 Qc6d6 Ke7e8 Kd5e5 Ke8f7 Qd6e6 Kf7f8 Ke5f5 Kf8g7 Qe6f6 Kg7g8 Kf5e6 Kg8h7 Qf6f5 Kh7h8 Qf5f4 Kh8g8 Ke6e7 Kg8h8 Qf4f6 Kh8g8 Qf6f7 Kg8h8 Qf7f6 Kh8g8 Ke7e6 Kg8h7 Ke6f7 ½-½
+
+Game at: 28 April 2021 21:06:30
+Move history: Pe2e4 Nb8c6 Qd1f3 Ng8f6 Bf1c4 Nf6xe4 Qf3xf7 1-0
+
+Game at: 28 April 2021 21:07:00
+Move history: Pe2e4 Nb8c6 Qd1f3 Ng8f6 Bf1c4 Nf6xe4 Qf3xf7 1-0
+
+Game at: 29 April 2021 20:34:42
+Move history: Pe2e4 Nb8c6 Bf1c4 Ng8f6 Qd1f3 Nf6xe4 Qf3xf7 1-0
+
+Game at: 29 April 2021 20:34:59
+Move history: Pe2e4 Nb8c6 Bf1c4 Ng8f6 Qd1f3 Nf6xe4 Qf3xf7 1-0
+
+Game at: 29 April 2021 20:35:17
+Move history: Pe2e4 Nb8c6 Qd1f3 Ng8f6 Bf1c4 Nf6xe4 Qf3xf7 1-0
+
+Game at: 29 April 2021 21:41:40
+Move history: Pe2e4 Pd7d5 Pe4e5 Pf7f5 0-1
+
+Game at: 29 April 2021 22:35:59
+Move history: Ng1f3 Ng8f6 Pg2g3 Pg7g6 Bf1h3 Bf8h6 0-0 1-0
+
+Game at: 29 April 2021 23:02:06
+Move history: Pe2e4 Nb8c6 Pf2f3 Ng8f6 Pd2d3 Nc6e5 Bc1f4 Rh8g8 Bf4xe5 Pc7c5 Pd3d4 Pc5xd4 Qd1xd4 Pa7a5 Qd4a4 Qd8b6 Be5xf6 Qb6xf6 Pc2c3 Ke8d8 Qa4d4 Qf6xd4 Pc3xd4 Pf7f6 Pe4e5 Pf6xe5 Pd4xe5 Pd7d5 Pe5xd6 Pe7xd6 Nb1a3 Pd6d5 Ra1d1 Ra8a7 Na3b5 Ra7a8 Rd1xd5 Kd8e8 Rd5e5 Ke8d8 Bf1c4 Ra8a6 Bc4xg8 Ra6g6 Pg2g4 Bc8d7 Ph2h3 Kd8c8 Ng1e2 Kc8b8 Ne2f4 Bd7xb5 Nf4xg6 Ph7xg6 Re5xb5 Kb8a7 Rb5xa5 Ka7b8 Ra5a3 Bf8xa3 Pb2xa3 Kb8a7 Pf3f4 Pb7b6 Pf4f5 Pg6xf5 Pg4xf5 Pg7g5 Pf5xg6 Ka7b8 Pg6g7 Kb8a7 Bg8c4 Ka7b8 Pg8 Kb8a7 Rh1g1 Ka7b7 Qg8g6 Kb7a7 Rg1f1 Ka7b8 Rf1f7 Kb8a8 Qg6g8 1-0
+
+Game at: 29 April 2021 23:02:14
+Move history: Ng1f3 1-0
+
+Game at: 29 April 2021 23:05:58
+Move history: Pe2e4 Nb8c6 Qd1f3 Nc6e5 Qf3f5 Ng8h6 Qf5f4 Rh8g8 Qf4xe5 Nh6g4 Qe5f4 Pc7c5 Bf1c4 Qd8b6 Qf4xf7 Ke8d8 Qf7xg8 Ng4e5 Qg8xf8 Kd8c7 Qf8xe7 Ne5xc4 Pd2d3 Kc7b8 Pd3xc4 Qb6c6 Bc1f4 Pd7d6 Qe7xd6 Qc6xd6 Bf4xd6 1-0
+
+Game at: 29 April 2021 23:16:34
+Move history: Pe2e4 Nb8c6 Bf1c4 Ng8f6 Qd1f3 Nc6e5 ½-½
+
+Game at: 01 May 2021 14:43:39
+Move history: 0-1
+
+Game at: 01 May 2021 14:43:50
+Move history: ½-½
+
+Game at: 01 May 2021 15:55:03
+Move history: Pe2e4 Nb8c6 Pd2d3 Ng8f6 Pf2f3 Nc6e5 Bc1f4 Rh8g8 Bf4xe5 Pc7c5 Be5xf6 Pe7xf6 Ng1e2 Qd8c7 Ne2c3 Ke8d8 Nc3d5 Qc7c6 Nd5c3 Qc6d6 Pd3d4 Pc5xd4 Nc3b5 Qd6e6 Pb2b3 Qe6c6 Nb5xd4 Qc6d6 Bf1b5 Qd6b6 Pc2c4 Qb6d6 Pc4c5 Qd6xc5 Nb1a3 Qc5xa3 Nd4e6 Pf7xe6 Ra1c1 Qa3xa2 Rc1c5 Bf8xc5 Rh1f1 Qa2xg2 Rf1f2 Bc5xf2 Ke1e2 Qg2xh2 Qd1d6 Qh2xd6 Bb5c4 Pe6e5 Pf3f4 Pe5xf4 Ke2xf2 Qd6c6 Kf2f3 Qc6d6 Kf3g4 Qd6c6 Bc4d5 Qc6d6 Pb3b4 Qd6xb4 Kg4xf4 Qb4d4 Kf4f5 Qd4d3 Kf5f4 Qd3d4 Kf4f5 Qd4d3 Kf5g4 Qd3e3 Kg4f5 Qe3f3 0-1
+
+Game at: 01 May 2021 16:49:42
+Move history: Pd2d4 Pe7e6 Pd4d5 Pc7c5 0-1
+
+Game at: 08 February 2022 01:47:32
+Move history: Pe2e4 Pd7d5 Pe4xd5 Pe7e5 Pd5xe6 Qd8d7 Pe6xd7 Ke8e7 Pc8 Ke7d6 Qc8d8 Kd6e6 Qd8xf8 Ke6d7 Qf8xb8 Kd7e7 Qb8xa8 Ke7d7 Qa8xg8 Kd7e7 Qg8xh8 Ke7d7 Qh8xh7 Kd7d6 Qh7xg7 Kd6d7 Qg7xf7 Kd7c8 Qf7d5 Kc8b8 Qd5xb7 Kb8xb7 Qd1g4 Kb7b6 Qg4d7 Kb6b7 Qd7xc7 Kb7a8 Bf1b5 Pa7a6 Bb5c6 1-0
+
+Game at: 14 February 2022 15:40:42
+Move history: Pd2d4 Nb8c6 Pd4d5 Ng8f6 Pd5xc6 Pd7xc6 Qd1xd8 Ke8xd8 Bc1g5 Nf6d5 Ng1f3 Pf7f5 Nf3e5 Pc6c5 Pc2c4 Rh8g8 Pc4xd5 Pa7a5 Nb1c3 Ra8a7 Nc3b5 Ra7a8 Ne5f7 Kd8e8 Nb5xc7 Ke8xf7 Nc7xa8 Kf7e8 Na8c7 Ke8d8 Nc7e6 Bc8xe6 Pd5xe6 Kd8c8 Pe2e3 Kc8b8 Bf1c4 Kb8a7 Ra1d1 Pa5a4 Pb2b3 Pa4a3 Rd1d5 Pb7b6 Rd5xf5 Pg7g6 Rf5e5 Rg8g7 Ke1d2 Ph7h5 Rh1c1 Rg7g8 Rc1c3 Rg8g7 Rc3c1 Rg7g8 Rc1c3 Rg8g7 Rc3c1 ½-½
